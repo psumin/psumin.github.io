@@ -103,7 +103,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       #url: "mailto:psumin0407@gmail.com"
-       url: "mailto:smparksedev@gmail.com"
+       url: mailto:smparksedev@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
