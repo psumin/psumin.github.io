@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "취미로 컴퓨터 공부하기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Software Engineer and Developer"
+name                     : # "Software Engineer and Developer"    what is this for??
 description              : "this part is description"
 url                      : "https://psumin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Software Engineer & Developer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
