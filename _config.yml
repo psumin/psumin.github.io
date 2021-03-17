@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "취미로 컴퓨터 공부하기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Software Engineer & Developere"
+name                     : "Software Engineer and Developer"
 description              : "this part is description"
 url                      : "https://psumin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
